@@ -1,0 +1,27 @@
+{
+  "name": "gtag-identifier",
+  "version": "1.0.0",
+  "description": "Identify presence of G-Tag in website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasnilarout/gtag-identifier.git"
+  },
+  "keywords": [
+    "GTag",
+    "GA4"
+  ],
+  "author": "manasnilarout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasnilarout/gtag-identifier/issues"
+  },
+  "homepage": "https://github.com/manasnilarout/gtag-identifier#readme",
+  "dependencies": {
+    "puppeteer": "^20.2.0"
+  }
+}

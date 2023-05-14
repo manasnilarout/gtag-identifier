@@ -1,2 +1,2 @@
-# gtag-identifier
+# G-Tag Identifier
 Identify presence of G-Tag
